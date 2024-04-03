@@ -1,1 +1,1 @@
-# Sammue
+# Sammue Worku ML Assignments project
